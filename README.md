@@ -1,6 +1,6 @@
 <img align="right" height="auto" width="270" src="images/right-photo.png">
 <h1 align="left">Hi 👋, I'm Mert DUMANLI</h1>
-<h4 align="justify">I'm working as a software specialist at Şekerbank. I graduated from Manisa Celal Bayar University Computer Engineering Department in June 2021. Then I took 70 working days of distance learning at Bilge Adam Teknoloji. In this training program, I learned Java SE, Java EE, Spring Boot, Spring Security, RestApi, Spring Data JPA, Spring Boot Validation, ElasticSearch, Redis, Swagger, Servlet, JSP, Hibernate, JavaScript, jQuery, HTML, CSS, Bootstrap. I have developed many complete projects on these topics. Then I started my current job.</h4>
+<h4 align="justify">I'm working as a software specialist at Şekerbank T.A.Ş. I graduated from Manisa Celal Bayar University Computer Engineering Department in June 2021. Then I took 70 working days of distance learning at Bilge Adam Technologies. In this training program, I learned Java SE, Java EE, Spring Boot, Spring Security, RestApi, Spring Data JPA, Spring Boot Validation, ElasticSearch, Redis, Swagger, Servlet, JSP, Hibernate, JavaScript, jQuery, HTML, CSS, Bootstrap. I have developed many complete projects on these topics. Then I started my current job.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertdumanli&label=Profile%20views&color=0e75b6&style=flat" alt="mertdumanli" /> </p>
 
